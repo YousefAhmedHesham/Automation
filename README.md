@@ -45,7 +45,9 @@ The production line performs **machining, sorting, and assembly**, transforming 
 
 #### **3. Assembly Unit**  
 - Assembles **lids onto bases** or moves items within the system.  
-- Uses **positioning bars** to ensure correct alignment of lids and bases.  
+- Uses **positioning bars** to ensure correct alignment of lids and bases.
+
+https://github.com/user-attachments/assets/d665d24f-ca17-4f09-b9e0-3fdd94bb190c
 
 ---
 
