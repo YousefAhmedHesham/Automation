@@ -15,7 +15,8 @@ Each phase incorporates simulation, control, and monitoring using Siemens TIA Po
 - Use **Factory I/O** or **MATLAB Simulink** for plant simulation and **SIL/HIL** simulation.  
 - Develop an **HMI interface** in **TIA Portal** to monitor system states, desired setpoints, and system faults.  
 - Implement **field-related alarms** to detect hardware and sequence faults.
-- https://github.com/user-attachments/assets/efc37d0f-3fe7-4d17-b756-4600eaf49466
+  
+ https://github.com/user-attachments/assets/efc37d0f-3fe7-4d17-b756-4600eaf49466
 
 ---
 
